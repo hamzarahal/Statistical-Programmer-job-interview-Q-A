@@ -1,1 +1,18 @@
+## 1.What is RShiny?
 
+RShiny is an open-source web application framework written in R for developing web applications.
+It's designed to create interactive, web-based dashboards, data visualizations, and interactive web applications without requiring
+extensive knowledge of web development languages such as HTML, CSS, or JavaScript.
+It was announced by Joe Cheng, CTO of Pozit (formerly RStudio), in 2012.
+
+## 2.What are the benefits of using RShiny?
+
+It is easy to use, even for users with no prior experience in web development.
+It provides a number of built-in features that make it easy to create interactive web applications.
+It is scalable, so you can create Shiny apps of any size or complexity.
+It is open source, so there is a large community of users and developers who can help you if you need assistance.
+
+## 3.What is the basic structure of R Shiny Applicaton?
+
+A Shiny application consists of two main parts: a user interface (UI) and a server. The UI defines the layout and appearance, while the 
+server defines the app's behavior and functionality.
