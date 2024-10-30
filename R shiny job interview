@@ -16,3 +16,16 @@ It is open source, so there is a large community of users and developers who can
 
 A Shiny application consists of two main parts: a user interface (UI) and a server. The UI defines the layout and appearance, while the 
 server defines the app's behavior and functionality.
+
+## 4.What is the difference between ui and server functions in Shiny?
+
+The UI function in Shiny constructs the user interface, specifying layout and appearance elements such as inputs, outputs, and formatting. On the other hand, the server function houses the application's logic and reactive behavior, handling input changes, calculations, and dynamic updates of output based on user interactions or other data modifications.
+The UI sets up the visual structure, while the server controls the dynamic functionality, enabling a seamless interactive experience for users.
+
+## 5.What is reactivity in R Shiny?
+Reactivity in R Shiny refers to the ability of a Shiny app to automatically update outputs (e.g., plots, tables) based on changes in inputs, reactive expressions, or other reactive values. It ensures that the app stays responsive and reflects the most current state based on user actions.
+
+## 6.What is reactive expression in the context of R Shiny?
+
+A reactive expression is an expression that returns a value that can change over time in response to user input or other events. Reactive expressions are used to create reactive values, which are values that can change over time.
+In Shiny, reactive expressions are used to create reactive values that can be used to update the output of a Shiny app in response to user input or other events.
