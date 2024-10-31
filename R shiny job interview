@@ -29,3 +29,7 @@ Reactivity in R Shiny refers to the ability of a Shiny app to automatically upda
 
 A reactive expression is an expression that returns a value that can change over time in response to user input or other events. Reactive expressions are used to create reactive values, which are values that can change over time.
 In Shiny, reactive expressions are used to create reactive values that can be used to update the output of a Shiny app in response to user input or other events.
+
+## 7.What is the concept of reactive graph in R Shiny?
+A reactive graph in R Shiny is a visual representation of how various reactive components (reactive expressions, reactive values) are connected and 
+depend on each other. It helps in understanding the flow of reactivity within the application, aiding in optimizing and debugging the app's performance.
