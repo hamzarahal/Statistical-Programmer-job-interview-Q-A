@@ -33,3 +33,8 @@ In Shiny, reactive expressions are used to create reactive values that can be us
 ## 7.What is the concept of reactive graph in R Shiny?
 A reactive graph in R Shiny is a visual representation of how various reactive components (reactive expressions, reactive values) are connected and 
 depend on each other. It helps in understanding the flow of reactivity within the application, aiding in optimizing and debugging the app's performance.
+
+## 8.What is the difference between a reactive expression and a reactive value?
+A reactive expression is a function that returns a value, and a reactive value is a variable that can be changed. Reactive expressions 
+are used to calculate values that depend on other reactive values or input values. Reactive values are used to store values that need to 
+be updated when other reactive values or input values change.
