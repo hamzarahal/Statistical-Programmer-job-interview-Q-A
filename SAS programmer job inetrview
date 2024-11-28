@@ -1,1 +1,11 @@
+Q1- What is the use of SAS Macro Facility?
+
+The SAS Macro facility is used for:
+	Decreasing code repetition.
+	Enhancing the control on program execution.
+	Reducing Manual interference.
+	Establishing Modular mode.
+
+Q2-What is the use of SAS Array?
+A SAS array is used for identifying a group of variables that can be processed within a data step. So, once the array is defined the programmer can perform similar tasks for a sequence of related variables known as array elements.
 
