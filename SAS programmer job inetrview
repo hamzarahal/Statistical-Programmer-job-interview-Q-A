@@ -14,4 +14,10 @@ Q3-In SAS, is it possible to clean the data in the system domain, and what exact
 There are two important commands which remain present in this approach and they are Proc Univariate and Proc Freq. the same can be utilized 
 for finding the deficiencies in the data and can be corrected in a healthy manner. 
 
+Q4- What is the significance of the program header in the SAS?
+It is s useful location every all the information regarding the changes made to the program is stored. The users can check the same to
+know what sort of changes they have made or the ones that are affecting the prime domain. It is possible to perform the reverse task as
+per the needs of the users. 
+
+
 
