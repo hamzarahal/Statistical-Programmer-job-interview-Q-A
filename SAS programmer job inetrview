@@ -7,5 +7,11 @@ The SAS Macro facility is used for:
 	Establishing Modular mode.
 
 Q2-What is the use of SAS Array?
-A SAS array is used for identifying a group of variables that can be processed within a data step. So, once the array is defined the programmer can perform similar tasks for a sequence of related variables known as array elements.
+A SAS array is used for identifying a group of variables that can be processed within a data step. So, once the array is defined the 
+programmer can perform similar tasks for a sequence of related variables known as array elements.
+
+Q3-In SAS, is it possible to clean the data in the system domain, and what exactly needs to be done for changing the values?
+There are two important commands which remain present in this approach and they are Proc Univariate and Proc Freq. the same can be utilized 
+for finding the deficiencies in the data and can be corrected in a healthy manner. 
+
 
