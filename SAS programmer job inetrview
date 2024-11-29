@@ -19,5 +19,10 @@ It is s useful location every all the information regarding the changes made to 
 know what sort of changes they have made or the ones that are affecting the prime domain. It is possible to perform the reverse task as
 per the needs of the users. 
 
+ Q5- What do you know about the Program Data Vector in the SAS memory?
+It is used to represent the logical area. Whenever the SAS considers a database, there is an input buffer that automatically gets created 
+during compilation and holds a record from an extensible file.
+
+
 
 
