@@ -23,6 +23,11 @@ per the needs of the users.
 It is used to represent the logical area. Whenever the SAS considers a database, there is an input buffer that automatically gets created 
 during compilation and holds a record from an extensible file.
 
+Q6- Mention what is the difference between nodupkey and nodup options?
+The identical observations are checked and removed through NODUP option. NODUPKEY option checks for all BY variable values and if found, 
+it will eliminate that.
+
+
 
 
 
