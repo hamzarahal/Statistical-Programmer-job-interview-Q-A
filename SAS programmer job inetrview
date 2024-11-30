@@ -27,6 +27,11 @@ Q6- Mention what is the difference between nodupkey and nodup options?
 The identical observations are checked and removed through NODUP option. NODUPKEY option checks for all BY variable values and if found, 
 it will eliminate that.
 
+Q7- What is the difference between Order and Group variable in proc report?
+If the variable is used as group variable, rows that have the same values are collapsed.
+Group variables produce list report whereas order variable produces summary report.
+
+
 
 
 
