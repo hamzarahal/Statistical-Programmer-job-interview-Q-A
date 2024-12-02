@@ -1,8 +1,17 @@
 Q1- What are the applications of CDISC Standards?
+
 Applications of CDISC Standards are as follows:
 	Establishing CRTs to send them to FDA to get NDA
 	Analyzing, Mapping, and Pooling clinical study data.
 	With the help of CDISC-SDTM mapping, we can create Annotated case report form.
 	To continue SAS we can create analyzed data sets in CDISC and non-CDISC standards.
+
+Q2- What sort of information do you find in the AE dataset and what exactly is the purpose of the same?
+
+Its stands for Adverse Events. It provides useful information regarding the subject code, subject matter, and generally it contains all 
+the relevant codes in the module. In addition o this, it offers users the information of the events as well as on the severity of the same.
+The required summary of the events can easily be targeted through this approach and this is exactly what helps users in assuring the overall
+safety of the drug.
+
 
 
