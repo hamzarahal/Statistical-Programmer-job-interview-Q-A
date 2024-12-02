@@ -31,6 +31,13 @@ Q7- What is the difference between Order and Group variable in proc report?
 If the variable is used as group variable, rows that have the same values are collapsed.
 Group variables produce list report whereas order variable produces summary report.
 
+Q8-  What is the work of tranwrd function?
+TRANWRD function replaces or removes all occurrences of a pattern of characters within a character string.
+Briefly explain Input and Put function?
+Input function – Character to numeric conversion- Input(source,informat)
+put function –  Numeric to character conversion- put(source,format)
+
+
 
 
 
