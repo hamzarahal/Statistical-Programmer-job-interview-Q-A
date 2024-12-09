@@ -18,6 +18,11 @@ The case report form is basically a document on which the names of all the varia
 There are certain questions about the CRF and in most of the cases, they are addressed with a reporting mechanism. The CRF actually acts 
 as a channel between the CRF and the raw data. A lot of medical programmers and statisticians make use of it. 
 
+Q4- What are the two formats that FDA accepts when it comes to document submission?
+The format can be PDF or. XML file. The user needs to update the macro's information while doing so in the primary domain for the 
+successful accomplishment of the concerned tasks.
+
+
 
 
 
