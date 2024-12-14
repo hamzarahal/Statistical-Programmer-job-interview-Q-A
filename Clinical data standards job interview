@@ -22,6 +22,11 @@ Q4- What are the two formats that FDA accepts when it comes to document submissi
 The format can be PDF or. XML file. The user needs to update the macro's information while doing so in the primary domain for the 
 successful accomplishment of the concerned tasks.
 
+Q5- Imagine a listing with complex needs and a lot of pages, how would validation be performed in such a scenario?
+Listing first needs to be converted into the data sets. This is because it is not possible for the users to perform validation for such 
+a large number of pages. There is a function that can be used for this task in SAS and i.e. PROC 
+
+
 
 
 
