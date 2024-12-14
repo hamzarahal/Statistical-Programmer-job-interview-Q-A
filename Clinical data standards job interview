@@ -26,6 +26,12 @@ Q5- Imagine a listing with complex needs and a lot of pages, how would validatio
 Listing first needs to be converted into the data sets. This is because it is not possible for the users to perform validation for such 
 a large number of pages. There is a function that can be used for this task in SAS and i.e. PROC 
 
+Q6- What exactly do you know about the Case Report Tabulation?
+It is basically a report which every pharmaceutical company has to submit to the FDA for getting the necessary approvals. 
+The Clinical SAS module is good enough to be trusted for the generation of this report in an effective manner.
+There are various filters that can be applied and the sections can be nullified with the domain in a very easy manner. 
+
+
 
 
 
